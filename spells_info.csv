@@ -1,0 +1,129 @@
+name,description,type,1,2,3,4,5,6,7,total
+apparition,Magically transports the caster to another location instantaneously. The destination is one that the primary user has been to or seen in some fashion previously. Can be used to apparate multiple people at once if holding each other. No incantation required.,Transportation,0,0,1,5,0,29,10,45
+expecto patronum,"This charm is a highly powerful and advanced protective spell which will conjure a spirit guardian of their positive emotions to defend against dark creatures; it can also send messages to other witches or wizards. The Patronus takes the form of an animal, unique to each person who casts it. The form of a Patronus can change when one has undergone a period of heightened emotion.",Charm,0,0,33,1,4,0,6,44
+accio,"Summons an object towards the caster. It is able to summon objects in direct line of sight of the caster, as well as things out of view, by calling the object aloud after the incantation (unless the spell is casted nonverbally). This spell needs thought behind it, and the object must be clear in the casters mind before trying to summon it. The caster doesn't necessarily need to know the location of the target if they say the name of the object to be summoned, such as when Hermione Granger summoned some books from Dumbledore's office simply by saying ""Accio Horcrux books!"" while in Gryffindor Tower.",Charm,0,0,0,8,10,3,13,34
+stupefy,"Stuns the target, rendering them unconscious.",Charm,0,0,0,10,7,1,9,27
+expelliarmus,Forces whatever an opponent is holding to fly out of their hand. It was considered to be Harry Potter's signature spell.,Charm,0,3,4,3,7,2,8,27
+avada kedavra,Killing curse,Curse,0,0,0,9,4,3,8,24
+lumos,"Illuminates the tip of the caster's wand, allowing the caster to see in the dark.",Charm,0,2,4,4,3,3,6,22
+riddikulus,"A spell used when fighting a Boggart, ""Riddikulus"" forces the Boggart to take the appearance of an object the caster is focusing on. Best results can be achieved if the caster is focusing on something humorous, with the desire that laughter will weaken the Boggart.",Charm,0,0,11,1,6,0,0,18
+slippery jinx,Makes an object slippery and difficult to hold.,Jinx,1,0,1,2,1,5,5,15
+imperio,"Places the victim completely under the caster's control. The victim is put into a trance-like state, and becomes very suggestible to the commands of the caster. However, those who are strong willed may learn to resist it. One of the three ""Unforgivable Curses,"" the use of this curse on another human results in capital punishment or life sentence in Azkaban.",Curse,0,0,0,6,2,2,5,15
+crucio,"Inflicts intense pain on the recipient of the curse. This curse does not physically harm the victim, but may in extreme cases drive them insane. The pain is described as having hot knives being driven into the victim. It cannot be cast successfully by a person who is doing so out of pure spite or anger; one must feel a true desire to cause the victim pain. If one casts this spell, he or she will receive a life sentence in Azkaban prison for it, as with the other two Unforgivable Curses.",Curse,0,0,0,5,4,2,4,15
+cracker jinx,"This spell is used to conjure exploding wizard crackers; it can be used in duelling to harm the opponent, but the force of the explosion may also affect the caster.",Jinx,5,1,2,1,4,0,1,14
+protego,Invisible shield that reflects spells and blocks physical entities.,Charm,0,0,0,0,4,1,8,13
+muffliato,Prevents others from hearing nearby conversations by filling peoples' ears with an unidentifiable buzzing.,Charm,0,0,0,0,0,6,6,12
+petrificus totalus,Used to temporarily bind the victim's body in a position much like that of a soldier at attention; the victim will usually fall to the ground.,Curse,1,0,0,0,4,5,1,11
+reparo,Seamlessly repairs broken objects.,Charm,0,0,0,1,3,4,3,11
+disillusionment charm,"Causes the target to blend seamlessly in with its surroundings, like a chameleon.",Charm,0,0,0,0,3,1,7,11
+impedimenta,Slows down or stops the target.,Jinx,0,0,0,3,4,3,1,11
+sectumsempra,"Lacerates the target, as if they have been ""slashed by a sword."" Subsequently, the target can easily bleed to death from the wounds. This curse was invented by Severus Snape, to be used against his personal enemies.",Curse,0,0,0,0,0,9,1,10
+aguamenti,"Produces a clean, drinkable jet of water from the wand tip.","Charm, Conjuration",0,0,0,0,0,8,2,10
+unbreakable charm,Makes objects unbreakable.,Charm,0,0,1,1,0,8,0,10
+alohomora,"Unlocks doors and other objects. It can also unlock doors that have been sealed with a Locking Spell, although it is possible to bewitch doors to become unaffected by this spell.",Charm,2,0,1,0,4,1,1,9
+fidelius charm,"An immensely complex charm used to hide secret information within the soul of the charm's recipient, who is called a Secret-Keeper. The information is irretrievable unless the Secret-Keeper willingly chooses to reveal it, and only the aforementioned person can do so.",Charm,0,0,2,0,0,0,7,9
+reducto,"Breaks objects. In stronger usages, disintegrates them.",Curse,0,0,0,4,3,2,0,9
+unbreakable vow,"Causes a vow taken by a witch or wizard to be inviolable; if they should break it, the consequence is death.",Spell,0,0,0,0,0,8,0,8
+silencio,Makes something silent.,Charm,0,0,0,0,8,0,0,8
+diffindo,Used to precisely cut or tear objects.,Charm,0,0,0,1,1,1,4,7
+legilimens,"Allows caster to delve into the mind of the victim, permitting the caster to see memories, emotions and thoughts",Charm,0,0,0,0,6,1,0,7
+wingardium leviosa,"Makes objects fly, or levitate.",Charm,3,0,0,0,1,0,2,6
+impervius,Makes an object repel water and mist.,Charm,0,0,1,0,3,0,2,6
+levicorpus,Hoists people up into the air by their ankle. Created by Severus Snape.,Jinx,0,0,0,0,0,5,1,6
+portus,Turns an object into a portkey.,Charm,0,0,0,0,5,0,0,5
+nox,"Extinguishes wandlight. It the counter-charm for the Wand-Lighting Charm, Lumos.",Charm,0,0,1,0,1,2,1,5
+relashio,Forces the target to release its grip on whatever it is holding.,Jinx,0,0,0,1,0,1,3,5
+obliviate,Erases specific memories.,Charm,0,1,0,1,0,0,3,5
+permanent sticking charm,Sticks objects permanently in place.,Charm,0,0,0,0,3,0,1,4
+locomotor mortis,Sticks legs together.,Curse,1,0,0,0,2,0,1,4
+taboo,"A jinx which may be placed upon a word or a name, so that whenever that word is spoken, a magical disturbance is created which alerts the caster of the Taboo to the location of the speaker. Any protective enchantments in effect around the speaker are broken when the Tabooed word is spoken aloud.",Curse,0,0,0,0,0,0,4,4
+locomotor wibbly,Causes the victim's legs to collapse as if they were turned to jelly.,"Curse, Jinx",1,0,0,0,2,0,1,4
+revelio,Reveals secrets about a person or object.,Charm,0,0,0,0,0,2,2,4
+locomotor,"Allows a witch or wizard to levitate a target a few inches off of the ground and then move said object in any given direction. Similarly to the Summoning Charm, a specific object can be moved by calling the object aloud after saying the incantation.",Charm,1,0,0,0,2,0,1,4
+incendio duo,A stronger version of Incendio.,Charm,0,0,0,1,0,2,0,3
+imperturbable charm,"Creates an invisible magical barrier on an object, such as a door. This barrier bounces objects off of it, and muffles sounds.",Charm,0,0,0,0,2,1,0,3
+tergeo,Siphons liquid and cleans objects.,Charm,0,0,0,0,0,1,2,3
+avis,"Conjures a flock of birds from the tip of the wand. When used in conjunction with Oppugno, it can be used offensively.","Conjuration, Charm",0,0,0,1,0,1,1,3
+sonorus,"Makes the target sound louder. The counter-charm is the Quietening Charm, Quietus.",Charm,0,0,0,3,0,0,0,3
+specialis revelio,Reveals spells cast on objects or potions.,Charm,0,0,0,1,0,2,0,3
+rennervate,Awakens an unconscious victim. It is consequently the counter-charm to the Stunning Spell.,Charm,0,0,0,2,0,1,0,3
+dissendium,Used to open passages.,Charm,0,0,3,0,0,0,0,3
+incendio, A charm that conjured flames,Charm,0,0,0,1,0,2,0,3
+bubble-head charm,Produces a large bubble of air around the head of the user; it is commonly used as the supernatural equivalent of a breathing set.,Charm,0,0,0,2,1,0,0,3
+caterwauling charm,Anyone entering the perimeter of this spell sets off a high-pitched shriek. This spell may be related to the Intruder Charm.,Charm,0,0,0,0,0,0,3,3
+colloportus,Locks doors and all things that can be locked. It is the counter-charm to the Unlocking Spell.,Charm,0,0,0,0,3,0,0,3
+bat-bogey hex,Transforms the target's bogeys into large bats that fly out of the victim's nose. It was invented by Miranda Goshawk.,Hex,0,0,0,0,2,1,0,3
+drought charm,Causes puddles and ponds to dry up. Though not powerful enough to drain a body of water like a lake,Charm,0,0,0,1,2,0,0,3
+bluebell flames,"Produces magical blue flames that can be held in a jar. Not as dangerous as real fire, these magical flames can be touched, penetrated and held without it burning the holder, though it is known to singe materials such as clothing and plants.",Charm,1,0,1,0,0,0,1,3
+scourgify,Cleans objects,Charm,0,0,0,0,2,0,0,2
+piertotum locomotor,Brings animates inanimate targets.,Charm,0,0,0,0,0,0,2,2
+incarcerous,Ties up the target with ropes conjured from thin air.,Conjuration,0,0,0,0,1,1,0,2
+reverte,Returns objects to their original positions or states.,Charm,0,0,0,1,0,1,0,2
+confringo,Produces a fiery explosion.,Curse,0,0,0,0,0,0,2,2
+episkey,"Used to heal relatively minor injuries, such as broken bones and cartilage.",Healing Spell,0,0,0,0,0,2,0,2
+scorching spell,Produces dancing flames which presumably scorch the opponent.,Charm,0,0,0,0,0,0,2,2
+engorgio skullus,"Causes the victim's skull to swell disproportionately. This spell may be a variation of the Engorgement Charm, as they share the first word of the incantation. Its countercurse is Redactum Skullus.",Hex,0,0,0,1,0,0,1,2
+furnunculus,Covers the target in boils (or pimples).,Jinx,0,0,0,2,0,0,0,2
+inanimatus conjurus,"It is a spell of unknown effect, most likely used to conjure an inanimate object.",Transfiguration,0,0,0,0,2,0,0,2
+patented daydream charm,Gives the spell caster a highly-realistic 30-minute daydream. Side effects include mild drooling and a vacant expression.,Charm,0,0,0,0,0,2,0,2
+fiendfyre,"Unleashes cursed fire that takes the shape of animals that actively seek out living targets and burn anything in its path, including nearly indestructable substances such as horcruxes. In addition, this fire is made even more dangerous due to the fact that it is extremely difficult to control, and cannot be extinguished with normal or enchanted water.",Curse,0,0,0,0,0,0,2,2
+everte statum,"Throws the victim backward, similarly to being thrown.",Spell,0,0,0,1,0,1,0,2
+reducio,Makes an object shrink in size. Its counter-charm is the Engorgement Charm.,Charm,0,0,0,1,0,0,1,2
+liberacorpus,The counter-jinx to Levicorpus.,Counter-Jinx,0,0,0,0,0,1,1,2
+salvio hexia,Protects against hexes.,Charm,0,0,0,0,0,0,2,2
+protean charm,Causes copies of an object to be remotely affected by changes made to the original.,Charm,0,0,0,0,2,0,0,2
+meteolojinx recanto,Causes weather effects caused by jinxes to cease.,Counter-Charm,0,0,0,0,0,0,2,2
+engorgio,Causes the target to swell in physical size. Its counter-charm is the Shrinking Charm.,Charm,0,0,0,1,0,0,1,2
+badgering,Turns things into badgers,Transfiguration,0,0,1,1,0,0,0,2
+homenum revelio,Reveals human presence in the vicinity of the caster.,Charm,0,0,0,0,0,0,2,2
+descendo,Causes object to fall or move downwards.,Charm,0,0,0,0,0,0,2,2
+evanesco,"Vanishes the target. Vanished things go ""into non-being, which is to say, everything.""",Transfiguration,0,0,0,0,2,0,0,2
+vulnera sanentur,"Healing spell that slows blood flow, clears residue, and knits wounds. It is the counter-curse to Sectumsempra.",Healing Spell,0,0,0,0,0,1,0,1
+homorphus charm,Causes an Animagus or transfigured object to assume its normal shape.,Charm,0,1,0,0,0,0,0,1
+confundo,Causes the victim to become confused and befuddled.,Charm,0,0,0,0,0,0,1,1
+erecto,Used to erect a tent or other upright structure.,Charm,0,0,0,0,0,0,1,1
+repello muggletum,Keeps Muggles away from wizarding places by causing them to remember important meetings they missed and to cause the Muggles in question to forget what they were doing.,Charm,0,0,0,0,0,0,1,1
+bedazzling hex,Allows the caster to disguise things.,Hex,0,0,0,0,0,0,1,1
+cascading jinx,Attacks multiple opponents in close proximity to each other.,Jinx,0,0,0,0,0,0,1,1
+tarantallegra,"Makes a target's legs spasm wildly out of control, making it appear as though they are dancing.",Jinx,0,1,0,0,0,0,0,1
+aparecium,"Reveals secret messages written in invisible ink, or any other hidden markings. Also works against Concealing charms",Charm,0,1,0,0,0,0,0,1
+capacious extremis,"Expands the internal dimensions of an object without affecting the external dimensions, enhancing its capacity, and rendering its contents lighter.",Charm,0,0,0,0,0,0,1,1
+supersensory charm,"Grants the caster to have enhanced senses, or to be able to sense things they would not normally sense.",Charm,0,0,0,0,0,0,1,1
+feather-light charm,Makes an object light as a feather.,Charm,0,0,1,0,0,0,0,1
+langlock,Sticks a victim's tongue to the roof of their mouth. Created by Severus Snape.,Jinx,0,0,0,0,0,1,0,1
+obscuro,Blindfolds the target.,Conjuration,0,0,0,0,0,0,1,1
+rowboat spell,Makes boats row themselves.,Charm,1,0,0,0,0,0,0,1
+anapneo,Clears the target's airway if they are choking on something.,"Healing Spell, Vanishment",0,0,0,0,0,1,0,1
+expulso,"Provokes an explosion, unique in that it uses pressure to do so as opposed to heat.",Curse,0,0,0,0,0,0,1,1
+cribbing spell,"This spell, which may possibly be a charm, is used to assist the caster in cheating on written papers, tests, and exams. It is possible that these spells can negate anti-cheating spells.",Spell,0,0,0,0,1,0,0,1
+repello inimicum,Disintegrates the persons entering this charm.,Charm,0,0,0,0,0,0,1,1
+deletrius,"Counter-charm to the Reverse Spell, vanishing the image of the last spell cast. It may also disintegrate other certain images.",Charm,0,0,0,1,0,0,0,1
+quietus,Makes a target sound quieter. It is the counter-charm to the Amplifying Charm.,Charm,0,0,0,1,0,0,0,1
+mobilicorpus,Levitates and moves bodies.,Charm,0,0,1,0,0,0,0,1
+rictusempra,Tickles the target until they become weak with laughter.,Charm,0,1,0,0,0,0,0,1
+serpensortia,Conjures a serpent from the caster's wand.,Conjuration,0,1,0,0,0,0,0,1
+sardine hex,Makes the victim sneeze out sardines.,Hex,1,0,0,0,0,0,0,1
+partis temporus,Creates a temporary gap in the target.,Charm,0,0,0,0,1,0,0,1
+mobiliarbus,Levitates wooden objects a few inches off of the ground and moves them in any given direction.,Charm,0,0,1,0,0,0,0,1
+defodio,Allows the caster to dig and carve through the target.,Charm,0,0,0,0,0,0,1,1
+densaugeo,"This hex causes the victim's teeth to grow rapidly, but can also be used to restore lost teeth, as proven when Ted Tonks did so in 1997 for Harry Potter.",Hex,0,0,0,1,0,0,0,1
+flagrante curse,Causes objects to burn on contact.,Curse,0,0,0,0,0,0,1,1
+peskipiksi pesternomi,"The one time it was used, it had absolutely no effect.",Charm,0,1,0,0,0,0,0,1
+anti-cheating spell,Used to prevent cheating.,Charm,1,0,0,0,0,0,0,1
+flagrate,Writes in midair with firey marks.,Charm,0,0,0,0,1,0,0,1
+ferula,"Conjures up bandages and wraps them around a wound, splinting any broken bones.","Conjuration, Healing spell",0,0,1,0,0,0,0,1
+morsmordre,"Conjures the Dark Mark, which is the sign of the Death Eaters.",,0,0,0,1,0,0,0,1
+duro,Turns an object to stone.,Charm,0,0,0,0,0,0,1,1
+hair-thickening charm,Thickens the victim's hair.,Charm,0,0,0,0,1,0,0,1
+hurling hex,Causes brooms to vibrate violently in the air and try to buck their rider off.,Hex,0,0,1,0,0,0,0,1
+geminio,"Duplicates the target. When used to duplicate objects indefinitely on purpose, is known as the Gemino Curse.",Charm,0,0,0,0,0,0,1,1
+deprimo,Charm used to blast holes in the ground.,Charm,0,0,0,0,0,0,1,1
+glisseo,Causes the steps on a stairway to flatten into a slide.,Charm,0,0,0,0,0,0,1,1
+firestorm,Produces a ring of fire from the wand.,Charm,0,0,0,0,0,0,1,1
+sonorous charm,"This charm emits a magnified roar from the tip of the wand. This noise disrupts all in its path, and can even be used to harm opponents.",Charm,0,0,0,0,0,0,1,1
+orchideous,Conjures a bouquet of flowers.,Conjuration,0,0,0,1,0,0,0,1
+waddiwasi,"Used to shoot small, soft masses of whatever the caster so desires at the target",Charm,0,0,1,0,0,0,0,1
+obliteration charm,Removes footprints.,Charm,0,0,0,0,1,0,0,1
+oppugno,Causes targeted objects to attack a victim. It is particularly effective in conjunction with the Bird-Conjuring Charm.,Jinx,0,0,0,0,0,1,0,1
+mimblewimble,"Ties the target's tongue in a knot, preventing them from making coherent speech, or saying incantations correctly, making it useful in duels.",Curse,1,0,0,0,0,0,0,1
+conjunctivitis curse,"Causes irritation in the eyes, forcing them to swell shut. The Oculus Potion is able to counteract this curse. Dragons are particularly susceptible to this curse, as their hide makes them resistant to most spells, while their eyes remain vulnerable.",Curse,0,0,0,1,0,0,0,1
